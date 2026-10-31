@@ -1,0 +1,1264 @@
+{
+  "source": "data/raw/products.json (crawl 28 Oct 2026, audit s.11 overrides)",
+  "currency": "JPY",
+  "tax_included": true,
+  "items": [
+    {
+      "id": 68521,
+      "category": "Pizza",
+      "name": "挽肉と木の子のピザ",
+      "description": "木の子が奏でる森の香り豊かな一枚♪",
+      "base_price_jpy": 1600,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1600
+        },
+        {
+          "label": "L",
+          "price_jpy": 3150
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/0p3J9yumN8xZXBRHFdNOD9n7I3SepHkpiYAgxU2J.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/0p3J9yumN8xZXBRHFdNOD9n7I3SepHkpiYAgxU2J.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/68521",
+      "flags": []
+    },
+    {
+      "id": 34981,
+      "category": "Pizza",
+      "name": "イタリアンソーセージと季節野菜のチーズソース",
+      "description": "ソーセージの旨味と季節の野菜がチーズによく合います！",
+      "base_price_jpy": 1680,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1680
+        },
+        {
+          "label": "L",
+          "price_jpy": 3300
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/KpOjzCwQtsTGDq53OnQgyq0IjTxFC1Hfqr38yLuz.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/KpOjzCwQtsTGDq53OnQgyq0IjTxFC1Hfqr38yLuz.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34981",
+      "flags": []
+    },
+    {
+      "id": 34982,
+      "category": "Pizza",
+      "name": "スモークサーモンとクリームチーズピザ",
+      "description": "甘じょっぱさがクセになる王道ハワイアンピザ🍕",
+      "base_price_jpy": 1730,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1730
+        },
+        {
+          "label": "L",
+          "price_jpy": 3400
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/Jy9WW85woaVOucrAvBCkavl52UV9JVgQwOFM0EXF.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/Jy9WW85woaVOucrAvBCkavl52UV9JVgQwOFM0EXF.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34982",
+      "flags": [
+        "copy_review"
+      ]
+    },
+    {
+      "id": 34983,
+      "category": "Pizza",
+      "name": "マルゲリータ",
+      "description": "ピザの定番！人気のマルゲリータ！",
+      "base_price_jpy": 1350,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1350
+        },
+        {
+          "label": "L",
+          "price_jpy": 2650
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/CFRhRMY6iSenzmw8FNwXvXRSccQ7k2yvSOeCfGkv.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/CFRhRMY6iSenzmw8FNwXvXRSccQ7k2yvSOeCfGkv.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34983",
+      "flags": []
+    },
+    {
+      "id": 34984,
+      "category": "Pizza",
+      "name": "もちっこ",
+      "description": "人気ナンバー1！特製テリヤキソースにおもち・ベーコン・チーズのバランスが最高！",
+      "base_price_jpy": 1300,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1300
+        },
+        {
+          "label": "L",
+          "price_jpy": 2550
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/63NamN3CUoLvk774qJfXF6VEB26xMMagJQqwNQOX.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/63NamN3CUoLvk774qJfXF6VEB26xMMagJQqwNQOX.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34984",
+      "flags": [
+        "l_price_verified_live"
+      ]
+    },
+    {
+      "id": 34936,
+      "category": "Pizza",
+      "name": "Gleeスペシャルミックス",
+      "description": "Gleeを代表する全部乗せピザ‼︎",
+      "base_price_jpy": 1800,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1800
+        },
+        {
+          "label": "L",
+          "price_jpy": 3550
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/2oQ1qyqc5dCrjfBovhruEdRFyBEesU2rffw83VKJ.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/2oQ1qyqc5dCrjfBovhruEdRFyBEesU2rffw83VKJ.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34936",
+      "flags": []
+    },
+    {
+      "id": 34985,
+      "category": "Pizza",
+      "name": "ツナマヨ",
+      "description": "ツナとマヨネーズが絶妙！お子様にも人気‼︎",
+      "base_price_jpy": 1250,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1250
+        },
+        {
+          "label": "L",
+          "price_jpy": 2450
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/kaS22ihxemwTrevYHvLDMBcvyaLFA82WX0njI6Ru.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/kaS22ihxemwTrevYHvLDMBcvyaLFA82WX0njI6Ru.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34985",
+      "flags": []
+    },
+    {
+      "id": 34986,
+      "category": "Pizza",
+      "name": "マヨコーンピザ",
+      "description": "コーンたっぷりのお子様にも人気の一枚！",
+      "base_price_jpy": 1200,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1200
+        },
+        {
+          "label": "L",
+          "price_jpy": 2350
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/a3p3Vkvpi7xLKcLdUkENIWLl2pgkUFr2tzh1Ibgs.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/a3p3Vkvpi7xLKcLdUkENIWLl2pgkUFr2tzh1Ibgs.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34986",
+      "flags": []
+    },
+    {
+      "id": 34987,
+      "category": "Pizza",
+      "name": "コンビネーションピザ",
+      "description": "自家製トマトソースにベーコン・ソーセージ・コーンとバランスの良い一枚！",
+      "base_price_jpy": 1500,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1500
+        },
+        {
+          "label": "L",
+          "price_jpy": 2950
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/vL2VmgDskRvErg2a81G8GvMF1HfOqZm1GRKgWyDU.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/vL2VmgDskRvErg2a81G8GvMF1HfOqZm1GRKgWyDU.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34987",
+      "flags": [
+        "l_price_verified_live"
+      ]
+    },
+    {
+      "id": 34988,
+      "category": "Pizza",
+      "name": "男爵ポテト",
+      "description": "ベーコンにホクホクのポテトがた〜っぷり！",
+      "base_price_jpy": 1500,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1500
+        },
+        {
+          "label": "L",
+          "price_jpy": 2950
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/pPnkOAdKPdce7Cme1dp3PS9usxnuuwIhGY7ycxN8.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/pPnkOAdKPdce7Cme1dp3PS9usxnuuwIhGY7ycxN8.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34988",
+      "flags": []
+    },
+    {
+      "id": 34989,
+      "category": "Pizza",
+      "name": "マヨじゃがジェノベーゼ",
+      "description": "香り高いバジルソースにベーコン、ジャガイモ、ニンニクが最高のコラボ‼︎",
+      "base_price_jpy": 1480,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1480
+        },
+        {
+          "label": "L",
+          "price_jpy": 2950
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/DjGOOZoXqkkGgQxDnGWPaLazlI0NygGfGvoJoWrH.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/DjGOOZoXqkkGgQxDnGWPaLazlI0NygGfGvoJoWrH.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34989",
+      "flags": [
+        "l_price_verified_live"
+      ]
+    },
+    {
+      "id": 34990,
+      "category": "Pizza",
+      "name": "4種のチーズピザ",
+      "description": "厳選された4種のチーズのハーモニー！ メープルシロップ別添え",
+      "base_price_jpy": 1450,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1450
+        },
+        {
+          "label": "L",
+          "price_jpy": 2800
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/mVWLxefDmr9wemQyojN1wqvgZZha5gqL9NDEiiI2.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/mVWLxefDmr9wemQyojN1wqvgZZha5gqL9NDEiiI2.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34990",
+      "flags": [
+        "l_price_verified_live"
+      ]
+    },
+    {
+      "id": 34991,
+      "category": "Pizza",
+      "name": "サラミDX",
+      "description": "サラミがたっぷりのったTHE アメリカンピザ！",
+      "base_price_jpy": 1580,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1580
+        },
+        {
+          "label": "L",
+          "price_jpy": 3100
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/FN6AKREReQTRDgbcelP79AfjMedsW4wJhbZiXz9x.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/FN6AKREReQTRDgbcelP79AfjMedsW4wJhbZiXz9x.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34991",
+      "flags": [
+        "typo_fixed"
+      ]
+    },
+    {
+      "id": 34992,
+      "category": "Pizza",
+      "name": "ジャーマンポテトスペシャル",
+      "description": "ジャーマンポテトとソーセージのドイツ風ピザ‼︎",
+      "base_price_jpy": 1580,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1580
+        },
+        {
+          "label": "L",
+          "price_jpy": 3100
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/b6h1G4LajEeDTAQfRxxYwlnoIADLSXshCqGCY18t.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/b6h1G4LajEeDTAQfRxxYwlnoIADLSXshCqGCY18t.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34992",
+      "flags": []
+    },
+    {
+      "id": 34994,
+      "category": "Pizza",
+      "name": "ガーリックミート",
+      "description": "たっぷりのお肉にガーリックがたまらない‼︎",
+      "base_price_jpy": 1580,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1580
+        },
+        {
+          "label": "L",
+          "price_jpy": 3100
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/CDXVUOq4QOBwtONjLZl8ZeFETmu86aGCIQz2dzkz.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/CDXVUOq4QOBwtONjLZl8ZeFETmu86aGCIQz2dzkz.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34994",
+      "flags": []
+    },
+    {
+      "id": 34995,
+      "category": "Pizza",
+      "name": "ホットチリドッグ",
+      "description": "ピリッと辛いチリコンカルネにソーセージやハラペーニョが相性○",
+      "base_price_jpy": 1600,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1600
+        },
+        {
+          "label": "L",
+          "price_jpy": 3150
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/JxSAtLTeBvTuRcSjipEFLZ0iCZt5riAlYQWjy3Pf.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/JxSAtLTeBvTuRcSjipEFLZ0iCZt5riAlYQWjy3Pf.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34995",
+      "flags": [
+        "l_price_verified_live"
+      ]
+    },
+    {
+      "id": 34996,
+      "category": "Pizza",
+      "name": "スパイシーデラックス",
+      "description": "ハラペーニョと特製チリソースが刺激的‼︎",
+      "base_price_jpy": 1580,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1580
+        },
+        {
+          "label": "L",
+          "price_jpy": 3100
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/iQedOhvX25KzeHREtPExudEZl6D9U9vEtZU0TrHd.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/iQedOhvX25KzeHREtPExudEZl6D9U9vEtZU0TrHd.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34996",
+      "flags": []
+    },
+    {
+      "id": 34997,
+      "category": "Pizza",
+      "name": "完熟トマトのカマンベールピザ",
+      "description": "完熟トマトにカマンベールチーズがピッタリ‼︎",
+      "base_price_jpy": 1580,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1580
+        },
+        {
+          "label": "L",
+          "price_jpy": 3100
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/B7Ngi2CR3dpRf5ccovy32u949EPnG3z0ssJcW5rV.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/B7Ngi2CR3dpRf5ccovy32u949EPnG3z0ssJcW5rV.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34997",
+      "flags": []
+    },
+    {
+      "id": 34998,
+      "category": "Pizza",
+      "name": "もち明太",
+      "description": "男爵ポテトに明太子ともちをトッピング‼︎",
+      "base_price_jpy": 1630,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1630
+        },
+        {
+          "label": "L",
+          "price_jpy": 3200
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/q38oVocb4EfH9ykBPso4yrzPwp5txos26NyaOfRM.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/q38oVocb4EfH9ykBPso4yrzPwp5txos26NyaOfRM.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34998",
+      "flags": []
+    },
+    {
+      "id": 34999,
+      "category": "Pizza",
+      "name": "テリヤキチキンマヨネーズ",
+      "description": "テリヤキチキンとからしマヨネーズの絶妙な味‼︎",
+      "base_price_jpy": 1700,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1700
+        },
+        {
+          "label": "L",
+          "price_jpy": 3350
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/0bjV2sdy7tFvadAikSF1RhOMYu43Es06v4THdhde.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/0bjV2sdy7tFvadAikSF1RhOMYu43Es06v4THdhde.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/34999",
+      "flags": []
+    },
+    {
+      "id": 35000,
+      "category": "Pizza",
+      "name": "海老とベーコンのガーリックトマト",
+      "description": "海老とベーコンにたっぷりのニンニクにバジルソースのアクセントがよく合うピザ🍕",
+      "base_price_jpy": 1680,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1680
+        },
+        {
+          "label": "L",
+          "price_jpy": 3300
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/JwS8THDaGBDKBFxJLJTeSsZeYKC24KyEmLsw1tMN.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/JwS8THDaGBDKBFxJLJTeSsZeYKC24KyEmLsw1tMN.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35000",
+      "flags": [
+        "l_price_verified_live"
+      ]
+    },
+    {
+      "id": 35001,
+      "category": "Pizza",
+      "name": "ガーリックカルビ",
+      "description": "たっぷりニンニクに肉汁溢れるジューシーピザ‼︎",
+      "base_price_jpy": 1700,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1700
+        },
+        {
+          "label": "L",
+          "price_jpy": 3350
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/tJ2PFQgh5BNnesNDLiCor2ReoegaHPp0X6eVWxJ3.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/tJ2PFQgh5BNnesNDLiCor2ReoegaHPp0X6eVWxJ3.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35001",
+      "flags": []
+    },
+    {
+      "id": 35003,
+      "category": "Pizza",
+      "name": "角切りベーコンスペシャル",
+      "description": "食べ応えのある角切りベーコンがとってもジューシー‼︎",
+      "base_price_jpy": 1750,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1750
+        },
+        {
+          "label": "L",
+          "price_jpy": 3450
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/aL49lfQiYKLNVHECODZsZY7MXRPIEbNN3xHtbjJg.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/aL49lfQiYKLNVHECODZsZY7MXRPIEbNN3xHtbjJg.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35003",
+      "flags": [
+        "l_price_verified_live"
+      ]
+    },
+    {
+      "id": 35007,
+      "category": "Pizza",
+      "name": "ねぎカルビ",
+      "description": "たっぷりねぎとカルビがBBQソースにマッチする一枚‼︎",
+      "base_price_jpy": 1750,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1750
+        },
+        {
+          "label": "L",
+          "price_jpy": 3450
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/CZWNUNEu9vf2ATFsCDFi6ZsWrpbOIviQFMzC6L72.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/CZWNUNEu9vf2ATFsCDFi6ZsWrpbOIviQFMzC6L72.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35007",
+      "flags": [
+        "l_price_verified_live"
+      ]
+    },
+    {
+      "id": 35009,
+      "category": "Pizza",
+      "name": "海鮮シーフードミックス",
+      "description": "海の幸いっぱいの人気の一枚‼︎",
+      "base_price_jpy": 1780,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1780
+        },
+        {
+          "label": "L",
+          "price_jpy": 3500
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/4Bh7LAW38XZBTcfzTKtgiV2S6j26nJjAKeXAzHnO.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/4Bh7LAW38XZBTcfzTKtgiV2S6j26nJjAKeXAzHnO.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35009",
+      "flags": []
+    },
+    {
+      "id": 35011,
+      "category": "Pizza",
+      "name": "デリシャスフォー",
+      "description": "人気の4つの味が集まった贅沢な美味しさ‼︎",
+      "base_price_jpy": 1800,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1800
+        },
+        {
+          "label": "L",
+          "price_jpy": 3550
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/XbOoklf7zriorwcxL75LUmoRCcv4j8mGVR4KFenC.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/XbOoklf7zriorwcxL75LUmoRCcv4j8mGVR4KFenC.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35011",
+      "flags": []
+    },
+    {
+      "id": 35014,
+      "category": "Pizza",
+      "name": "ミートグルメスペシャル",
+      "description": "肉達の饗宴！肉好きにはたまらない一枚‼︎",
+      "base_price_jpy": 1780,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1780
+        },
+        {
+          "label": "L",
+          "price_jpy": 3500
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/7JbmGfGW2D05kjA6y56IhOpJ2F3GkMggJQQJPANc.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/7JbmGfGW2D05kjA6y56IhOpJ2F3GkMggJQQJPANc.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35014",
+      "flags": []
+    },
+    {
+      "id": 35017,
+      "category": "Pizza",
+      "name": "ぷりぷりエビの旨塩ガーリック",
+      "description": "海老三昧！旨塩とガーリックがよく合う一枚‼︎",
+      "base_price_jpy": 1850,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 1850
+        },
+        {
+          "label": "L",
+          "price_jpy": 3650
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/oAiphwuSVBBIuQuYeaJ5aNJR1C1GX6d4FpoUQXP6.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/oAiphwuSVBBIuQuYeaJ5aNJR1C1GX6d4FpoUQXP6.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35017",
+      "flags": []
+    },
+    {
+      "id": 104155,
+      "category": "Half & Half",
+      "name": "Mサイズ ハーフ＆ハーフ",
+      "description": "お好きなMサイズピザをハーフ&ハーフで！",
+      "base_price_jpy": null,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/IVOzYj5LQQqUUKcD6GnyyuVqt0Fbbza3ETvClaxM.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/IVOzYj5LQQqUUKcD6GnyyuVqt0Fbbza3ETvClaxM.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/104155",
+      "flags": [
+        "description_from_audit",
+        "priced_by_half_charges"
+      ]
+    },
+    {
+      "id": 104156,
+      "category": "Half & Half",
+      "name": "Lサイズ ハーフ＆ハーフ",
+      "description": "お好きなLサイズピザをハーフ&ハーフで！",
+      "base_price_jpy": null,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/zZOEToytWQgKlcD6SGTIDJdc5jkwb2OdGHNl5o3t.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/zZOEToytWQgKlcD6SGTIDJdc5jkwb2OdGHNl5o3t.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/104156",
+      "flags": [
+        "priced_by_half_charges"
+      ]
+    },
+    {
+      "id": 35018,
+      "category": "Side Menu",
+      "name": "ロック唐揚げ (塩)",
+      "description": "店内仕込みの塩唐揚げ‼︎",
+      "base_price_jpy": 510,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/Crnbc53tBqUK33Uocxk1jLG1Dx1UpGRjw6AomNXo.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/Crnbc53tBqUK33Uocxk1jLG1Dx1UpGRjw6AomNXo.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35018",
+      "flags": []
+    },
+    {
+      "id": 35019,
+      "category": "Side Menu",
+      "name": "ロック唐揚げ (柚子胡椒)",
+      "description": "柚子胡椒風味のピリ辛唐揚げ",
+      "base_price_jpy": 560,
+      "variants": [],
+      "available_at": [
+        "beppu"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/fzMXAlZetCPRWH8XhqQhCz3JwoAvPJjQNQJ2Iqdg.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/fzMXAlZetCPRWH8XhqQhCz3JwoAvPJjQNQJ2Iqdg.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35019",
+      "flags": []
+    },
+    {
+      "id": 35020,
+      "category": "Side Menu",
+      "name": "ロック唐揚げ (スパイシー)",
+      "description": "自家製スパイスに漬け込んだ唐揚げ",
+      "base_price_jpy": 580,
+      "variants": [],
+      "available_at": [
+        "beppu"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/w4Rf8tuTJjn7OPduDMGy1I00k3gPgxDOkvyfeTI9.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/w4Rf8tuTJjn7OPduDMGy1I00k3gPgxDOkvyfeTI9.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35020",
+      "flags": []
+    },
+    {
+      "id": 35021,
+      "category": "Side Menu",
+      "name": "ロック唐揚げ (コチュジャンマヨ)",
+      "description": "コチュジャンマヨ別添え",
+      "base_price_jpy": 600,
+      "variants": [],
+      "available_at": [
+        "beppu"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/bj3XCVzQn59bUJqFvbFSIyb40C9TRDbcmrp8cqnU.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/bj3XCVzQn59bUJqFvbFSIyb40C9TRDbcmrp8cqnU.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35021",
+      "flags": []
+    },
+    {
+      "id": 35022,
+      "category": "Side Menu",
+      "name": "フライドポテト M",
+      "description": "ピザと一緒にどうぞどうぞ‼︎",
+      "base_price_jpy": 350,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 350
+        },
+        {
+          "label": "L",
+          "price_jpy": 600
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/BeTI8rD32C27ty49e1DaOloL7E0W3ejj53umLk7U.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/BeTI8rD32C27ty49e1DaOloL7E0W3ejj53umLk7U.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35022",
+      "flags": []
+    },
+    {
+      "id": 73916,
+      "category": "Side Menu",
+      "name": "フライドポテトM バター醤油",
+      "description": "フライドポテトバター醤油味！",
+      "base_price_jpy": 380,
+      "variants": [
+        {
+          "label": "M",
+          "price_jpy": 380
+        },
+        {
+          "label": "L",
+          "price_jpy": 630
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/x9PwBSxM0xbwm7Vjkuv3tUG27mLf0I5HC7tlcWMD.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/x9PwBSxM0xbwm7Vjkuv3tUG27mLf0I5HC7tlcWMD.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/73916",
+      "flags": []
+    },
+    {
+      "id": 35023,
+      "category": "Side Menu",
+      "name": "オニポテ",
+      "description": "オニオンリング・フライドポテト",
+      "base_price_jpy": 580,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/L1mUVjjaUUHOMTlTKQiAVUpjr9jjx9hgo6aBd2Qw.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/L1mUVjjaUUHOMTlTKQiAVUpjr9jjx9hgo6aBd2Qw.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35023",
+      "flags": []
+    },
+    {
+      "id": 35024,
+      "category": "Side Menu",
+      "name": "オニオンリング",
+      "description": "オニオンリング200g",
+      "base_price_jpy": 410,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/W6fButisG9kdIvwrrvUaSktNi471tdZl8nJGS5g6.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/W6fButisG9kdIvwrrvUaSktNi471tdZl8nJGS5g6.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35024",
+      "flags": []
+    },
+    {
+      "id": 35025,
+      "category": "Side Menu",
+      "name": "チキンナゲット 5ヶ",
+      "description": "ケチャップ別添え",
+      "base_price_jpy": 380,
+      "variants": [
+        {
+          "label": "5ヶ",
+          "price_jpy": 380
+        },
+        {
+          "label": "10ヶ",
+          "price_jpy": 730
+        }
+      ],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/Q1iRZZvJPK6DbHQMmpL5IrPEhDfqkdRJxcDMkosn.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/Q1iRZZvJPK6DbHQMmpL5IrPEhDfqkdRJxcDMkosn.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35025",
+      "flags": []
+    },
+    {
+      "id": 35026,
+      "category": "Side Menu",
+      "name": "チーズポテトボール 8ヶ",
+      "description": "チーズにポテトを包みました。ケチャップ別添え",
+      "base_price_jpy": 380,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/RrCptzAq7mU3ljCkLlwbXMcTWdakk88fILYLENn0.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/RrCptzAq7mU3ljCkLlwbXMcTWdakk88fILYLENn0.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35026",
+      "flags": []
+    },
+    {
+      "id": 35027,
+      "category": "Side Menu",
+      "name": "レッドホットチキン 5本",
+      "description": "ピリ辛チキン5本",
+      "base_price_jpy": 420,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/jGupYr1sWlVaZW4Vmutd6ysnfcL8SfVMOUgjW6YC.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/jGupYr1sWlVaZW4Vmutd6ysnfcL8SfVMOUgjW6YC.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35027",
+      "flags": []
+    },
+    {
+      "id": 35028,
+      "category": "Side Menu",
+      "name": "チキンボックス",
+      "description": "唐揚げ6ヶ・フライドポテト200g",
+      "base_price_jpy": 780,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/4eVyGulYQcPGrMuj8x56JUzMrAAzpIei5TRFtA4g.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/4eVyGulYQcPGrMuj8x56JUzMrAAzpIei5TRFtA4g.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35028",
+      "flags": []
+    },
+    {
+      "id": 35029,
+      "category": "Side Menu",
+      "name": "ミックスコンボ",
+      "description": "唐揚げ5ヶ・オニオンリング8ヶ・フライドポテト200g",
+      "base_price_jpy": 900,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/x1LLWjhPoM5Q6uugmmFhbgBm70fycbNLV2CYlopc.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/x1LLWjhPoM5Q6uugmmFhbgBm70fycbNLV2CYlopc.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35029",
+      "flags": []
+    },
+    {
+      "id": 35030,
+      "category": "Side Menu",
+      "name": "パーティーパック",
+      "description": "唐揚げ6ヶ・チキンナゲット6ヶ・オニオンリング8ヶ・フライドポテト200g",
+      "base_price_jpy": 1150,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/YvS6xOlsSS64unr3WOyLsilTLx7JFsaYrrL9AwAA.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/YvS6xOlsSS64unr3WOyLsilTLx7JFsaYrrL9AwAA.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35030",
+      "flags": []
+    },
+    {
+      "id": 42133,
+      "category": "Side Menu",
+      "name": "串フランクフルト 2本",
+      "description": "ケチャップ付き",
+      "base_price_jpy": 360,
+      "variants": [],
+      "available_at": [
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/knQdWbPCotPADfPUOelqYRsZ2pSJcshVmHToLwnC.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/knQdWbPCotPADfPUOelqYRsZ2pSJcshVmHToLwnC.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/42133",
+      "flags": []
+    },
+    {
+      "id": 42134,
+      "category": "Side Menu",
+      "name": "骨なしフライドチキン 1ヶ",
+      "description": null,
+      "base_price_jpy": 300,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/pFrIgMDDJlsVCtAbEJeVTCRczDEOJP5dNYItaMP9.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/pFrIgMDDJlsVCtAbEJeVTCRczDEOJP5dNYItaMP9.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/42134",
+      "flags": [
+        "no_description"
+      ]
+    },
+    {
+      "id": 35035,
+      "category": "Drinks",
+      "name": "Glee特製バナナジュース",
+      "description": null,
+      "base_price_jpy": 420,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/cLgaEEc9MozMJ1SCxQ8GMZm8HqF8ZmX6ylZQBEnV.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/cLgaEEc9MozMJ1SCxQ8GMZm8HqF8ZmX6ylZQBEnV.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35035",
+      "flags": [
+        "no_description"
+      ]
+    },
+    {
+      "id": 35037,
+      "category": "Drinks",
+      "name": "コカコーラ700ml",
+      "description": null,
+      "base_price_jpy": 180,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/rCqvS4N8IQbnZyI9rq3kX5DbdeUROOryWFFEJzdk.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/rCqvS4N8IQbnZyI9rq3kX5DbdeUROOryWFFEJzdk.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35037",
+      "flags": [
+        "no_description"
+      ]
+    },
+    {
+      "id": 35038,
+      "category": "Drinks",
+      "name": "オレンジジュース425ml",
+      "description": null,
+      "base_price_jpy": 180,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/mB1cyS4s734L87PvmiSYYeuRcma7IAGOj8jpeZ5i.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/mB1cyS4s734L87PvmiSYYeuRcma7IAGOj8jpeZ5i.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/35038",
+      "flags": [
+        "no_description"
+      ]
+    },
+    {
+      "id": 42131,
+      "category": "Drinks",
+      "name": "ジンジャーエール 700ml",
+      "description": null,
+      "base_price_jpy": 180,
+      "variants": [],
+      "available_at": [
+        "beppu",
+        "hiji",
+        "takasaki"
+      ],
+      "image": {
+        "w1280": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/RWLLLL3oKVGphvViqgRMQFjLJ73Fcth47Y1Hdtwq.jpg?w=1280",
+        "w512": "https://d1umvcecpsu7ql.cloudfront.net/storage/uploads/products/RWLLLL3oKVGphvViqgRMQFjLJ73Fcth47Y1Hdtwq.jpg?w=512"
+      },
+      "source_url": "https://pizza-glee.take-eats.jp/product/42131",
+      "flags": [
+        "no_description"
+      ]
+    }
+  ]
+}

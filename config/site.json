@@ -1,0 +1,99 @@
+{
+  "_note": "Single source for business settings. Anything in {{double braces}} is a placeholder; do not launch until every placeholder is replaced and every OWNER_DECISION is resolved.",
+  "site": {
+    "brand": "Pizza Glee",
+    "locale": "ja-JP",
+    "currency": "JPY",
+    "tax_included": true,
+    "languages": [
+      "ja"
+    ],
+    "domain": "{{DOMAIN}}"
+  },
+  "legal": {
+    "seller_entity": "{{LEGAL_ENTITY}}",
+    "seller_representative": "{{SELLER_NAME}}",
+    "seller_address": "{{LEGAL_ADDRESS}}",
+    "contact_phone": "{{CONTACT_PHONE}}",
+    "contact_email": "{{CONTACT_EMAIL}}",
+    "privacy_policy": "{{OWN_PRIVACY_POLICY}}",
+    "returns_policy": "{{RETURNS_POLICY}}"
+  },
+  "fulfilment": {
+    "takeout": true,
+    "delivery": false,
+    "eat_in": false,
+    "external_delivery": "Uber Eats via separate tablet (not integrated)"
+  },
+  "payments": {
+    "provider": "stripe",
+    "mode": "test",
+    "enabled": [
+      "card"
+    ],
+    "candidates": [
+      "paypay",
+      "apple_pay",
+      "konbini",
+      "pay_in_store"
+    ],
+    "merchant_account_holder": "{{MERCHANT_ACCOUNT_HOLDER}}"
+  },
+  "pickup": {
+    "slot_minutes": 10,
+    "days_ahead": 6,
+    "min_lead_minutes": "{{LEAD_TIME_MIN}}",
+    "order_cutoff_minutes_before_close": "{{CUTOFF_MIN}}",
+    "special_request_max_chars": 250
+  },
+  "stores": [
+    {
+      "id": "beppu",
+      "name": "Pizza Glee 別府",
+      "takeout_shop_id": 2048,
+      "address": "〒874-0919 大分県別府市石垣東6-6-3 睦吉ビル101",
+      "phone": "0977-23-0147",
+      "phone_status": "confirmed on site legal page",
+      "in_scope": true,
+      "hours": {
+        "weekday": "{{HOURS_WEEKDAY}}",
+        "weekend": "{{HOURS_WEEKEND}}",
+        "closed_days": "{{CLOSED_DAYS}}"
+      }
+    },
+    {
+      "id": "hiji",
+      "name": "Pizza Glee 日出店",
+      "takeout_shop_id": 2449,
+      "address": "〒879-1505 大分県速見郡日出町川崎837番地68 さとうビル",
+      "phone": "0977-76-8771",
+      "phone_status": "UNVERIFIED (external listing)",
+      "in_scope": "OWNER_DECISION",
+      "hours": {
+        "weekday": "{{HOURS_WEEKDAY}}",
+        "weekend": "{{HOURS_WEEKEND}}",
+        "closed_days": "{{CLOSED_DAYS}}"
+      }
+    },
+    {
+      "id": "takasaki",
+      "name": "Pizza Glee 高崎店",
+      "takeout_shop_id": 4857,
+      "address": "〒870-0872 大分県大分市高崎3丁目12-7 ナガトミビル101",
+      "phone": "0975-44-5757",
+      "phone_status": "UNVERIFIED (external listing)",
+      "in_scope": "OWNER_DECISION",
+      "hours": {
+        "weekday": "{{HOURS_WEEKDAY}}",
+        "weekend": "{{HOURS_WEEKEND}}",
+        "closed_days": "{{CLOSED_DAYS}}"
+      }
+    }
+  ],
+  "analytics": {
+    "google_analytics": "undecided - enable only after the privacy policy covers it"
+  },
+  "images": {
+    "source": "TakeEats CDN (d1umvcecpsu7ql.cloudfront.net) - replace with owner-approved originals before launch"
+  }
+}

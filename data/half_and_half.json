@@ -1,0 +1,296 @@
+{
+  "rules": {
+    "flavours_to_choose": 2,
+    "price": "sum of the two half charges",
+    "size_product_ids": {
+      "M": 104155,
+      "L": 104156
+    },
+    "excluded_flavour_ids": [
+      35011
+    ],
+    "same_flavour_twice": "UNKNOWN - owner decision"
+  },
+  "sizes": {
+    "M": {
+      "product_id": 104155,
+      "flavours": [
+        {
+          "product_id": 68521,
+          "name": "挽肉と木の子のピザ",
+          "half_charge_jpy": 800
+        },
+        {
+          "product_id": 34981,
+          "name": "イタリアンソーセージと季節野菜のチーズソース",
+          "half_charge_jpy": 840
+        },
+        {
+          "product_id": 34982,
+          "name": "スモークサーモンとクリームチーズピザ",
+          "half_charge_jpy": 865
+        },
+        {
+          "product_id": 34983,
+          "name": "マルゲリータ",
+          "half_charge_jpy": 675
+        },
+        {
+          "product_id": 34990,
+          "name": "4種のチーズピザ",
+          "half_charge_jpy": 725
+        },
+        {
+          "product_id": 34984,
+          "name": "もちっこ",
+          "half_charge_jpy": 650
+        },
+        {
+          "product_id": 35007,
+          "name": "ねぎカルビ",
+          "half_charge_jpy": 875
+        },
+        {
+          "product_id": 34936,
+          "name": "Gleeスペシャルミックス",
+          "half_charge_jpy": 900
+        },
+        {
+          "product_id": 34985,
+          "name": "ツナマヨ",
+          "half_charge_jpy": 625
+        },
+        {
+          "product_id": 35000,
+          "name": "海老とベーコンのガーリックトマト",
+          "half_charge_jpy": 840
+        },
+        {
+          "product_id": 34991,
+          "name": "サラミDX",
+          "half_charge_jpy": 790
+        },
+        {
+          "product_id": 34997,
+          "name": "完熟トマトのカマンベールピザ",
+          "half_charge_jpy": 790
+        },
+        {
+          "product_id": 34986,
+          "name": "マヨコーンピザ",
+          "half_charge_jpy": 600
+        },
+        {
+          "product_id": 34988,
+          "name": "男爵ポテト",
+          "half_charge_jpy": 750
+        },
+        {
+          "product_id": 34992,
+          "name": "ジャーマンポテトスペシャル",
+          "half_charge_jpy": 790
+        },
+        {
+          "product_id": 34989,
+          "name": "マヨじゃがジェノベーゼ",
+          "half_charge_jpy": 740
+        },
+        {
+          "product_id": 34994,
+          "name": "ガーリックミート",
+          "half_charge_jpy": 790
+        },
+        {
+          "product_id": 34995,
+          "name": "ホットチリドッグ",
+          "half_charge_jpy": 800
+        },
+        {
+          "product_id": 34996,
+          "name": "スパイシーデラックス",
+          "half_charge_jpy": 790
+        },
+        {
+          "product_id": 35014,
+          "name": "ミートグルメスペシャル",
+          "half_charge_jpy": 890
+        },
+        {
+          "product_id": 35001,
+          "name": "ガーリックカルビ",
+          "half_charge_jpy": 850
+        },
+        {
+          "product_id": 34998,
+          "name": "もち明太",
+          "half_charge_jpy": 815
+        },
+        {
+          "product_id": 35009,
+          "name": "海鮮シーフードミックス",
+          "half_charge_jpy": 890
+        },
+        {
+          "product_id": 34999,
+          "name": "テリヤキチキンマヨネーズ",
+          "half_charge_jpy": 850
+        },
+        {
+          "product_id": 35003,
+          "name": "角切りベーコンスペシャル",
+          "half_charge_jpy": 875
+        },
+        {
+          "product_id": 35017,
+          "name": "ぷりぷりエビの旨塩ガーリック",
+          "half_charge_jpy": 925
+        },
+        {
+          "product_id": 34987,
+          "name": "コンビネーションピザ",
+          "half_charge_jpy": 750
+        }
+      ]
+    },
+    "L": {
+      "product_id": 104156,
+      "flavours": [
+        {
+          "product_id": 68521,
+          "name": "挽肉と木の子のピザ",
+          "half_charge_jpy": 1575
+        },
+        {
+          "product_id": 34981,
+          "name": "イタリアンソーセージと季節野菜のチーズソース",
+          "half_charge_jpy": 1650
+        },
+        {
+          "product_id": 34982,
+          "name": "スモークサーモンとクリームチーズピザ",
+          "half_charge_jpy": 1700
+        },
+        {
+          "product_id": 34983,
+          "name": "マルゲリータ",
+          "half_charge_jpy": 1475
+        },
+        {
+          "product_id": 34990,
+          "name": "4種のチーズピザ",
+          "half_charge_jpy": 1400
+        },
+        {
+          "product_id": 34984,
+          "name": "もちっこ",
+          "half_charge_jpy": 1275
+        },
+        {
+          "product_id": 35007,
+          "name": "ねぎカルビ",
+          "half_charge_jpy": 1725
+        },
+        {
+          "product_id": 34936,
+          "name": "Gleeスペシャルミックス",
+          "half_charge_jpy": 1775
+        },
+        {
+          "product_id": 34985,
+          "name": "ツナマヨ",
+          "half_charge_jpy": 1225
+        },
+        {
+          "product_id": 35000,
+          "name": "海老とベーコンのガーリックトマト",
+          "half_charge_jpy": 1650
+        },
+        {
+          "product_id": 34991,
+          "name": "サラミDX",
+          "half_charge_jpy": 1550
+        },
+        {
+          "product_id": 34997,
+          "name": "完熟トマトのカマンベールピザ",
+          "half_charge_jpy": 1550
+        },
+        {
+          "product_id": 34986,
+          "name": "マヨコーンピザ",
+          "half_charge_jpy": 1175
+        },
+        {
+          "product_id": 34988,
+          "name": "男爵ポテト",
+          "half_charge_jpy": 1475
+        },
+        {
+          "product_id": 34992,
+          "name": "ジャーマンポテトスペシャル",
+          "half_charge_jpy": 1550
+        },
+        {
+          "product_id": 34989,
+          "name": "マヨじゃがジェノベーゼ",
+          "half_charge_jpy": 1475
+        },
+        {
+          "product_id": 34994,
+          "name": "ガーリックミート",
+          "half_charge_jpy": 1550
+        },
+        {
+          "product_id": 34995,
+          "name": "ホットチリドッグ",
+          "half_charge_jpy": 1575
+        },
+        {
+          "product_id": 34996,
+          "name": "スパイシーデラックス",
+          "half_charge_jpy": 1550
+        },
+        {
+          "product_id": 35014,
+          "name": "ミートグルメスペシャル",
+          "half_charge_jpy": 1750
+        },
+        {
+          "product_id": 35001,
+          "name": "ガーリックカルビ",
+          "half_charge_jpy": 1675
+        },
+        {
+          "product_id": 34998,
+          "name": "もち明太",
+          "half_charge_jpy": 1600
+        },
+        {
+          "product_id": 35009,
+          "name": "海鮮シーフードミックス",
+          "half_charge_jpy": 1750
+        },
+        {
+          "product_id": 34999,
+          "name": "テリヤキチキンマヨネーズ",
+          "half_charge_jpy": 1675
+        },
+        {
+          "product_id": 35003,
+          "name": "角切りベーコンスペシャル",
+          "half_charge_jpy": 1725
+        },
+        {
+          "product_id": 35017,
+          "name": "ぷりぷりエビの旨塩ガーリック",
+          "half_charge_jpy": 1825
+        },
+        {
+          "product_id": 34987,
+          "name": "コンビネーションピザ",
+          "half_charge_jpy": 1475
+        }
+      ]
+    }
+  }
+}
